@@ -1,0 +1,22 @@
+{
+  "folders": [
+    {
+      "name": "pair-programming-word-search",
+      "uri": "vsls:/"
+    }
+  ],
+  "settings": {
+    "files.hotExit": "off",
+    "vsliveshare.join.reload.workspaceId": "2E67A04157F825CE2ABE6A3E8AEF3380831F",
+    "vsliveshare.join.reload.workspaceFolder": "/tmp/vsliveshare/tmp-2E67A04157F825CE2ABE6A3E8AEF3380831F",
+    "vsliveshare.join.correlationId": "INVALID",
+    "extensions.ignoreRecommendations": true,
+    "typescript.tsc.autoDetect": "off",
+    "jake.autoDetect": "off",
+    "grunt.autoDetect": "off",
+    "gulp.autoDetect": "off",
+    "npm.autoDetect": "off",
+    "debug.allowBreakpointsEverywhere": true,
+    "html.autoClosingTags": false
+  }
+}
